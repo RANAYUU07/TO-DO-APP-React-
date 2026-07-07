@@ -1,5 +1,25 @@
-**TO-DO-APP-React-**
-
-This is a TO-DO APP made in React and also my first of the many react project. I got to learn a lot while working on this project, mainly about react functionality. I did face some troubles with this but I am sure that in the next upcoming projects I will not do the same mistakes and errors. The main knowledge I learned while working on this project is about states and hooks, component management, prop passing between props. I also tried to add some new funtions in the app like an edit option which will let you edit your todo in the list.
-
-All in All this was a very project to work on and i enjoyed it.
+# TO-DO-APP-React
+ 
+A simple to-do list app built with React — my first React project.
+ 
+## About
+ 
+This was my introduction to React, built to get hands-on with the core fundamentals: state, hooks, and component-based architecture. I ran into my fair share of bugs and mistakes along the way, but that's exactly what made it a solid learning project.
+ 
+## Features
+ 
+- Add tasks to your to-do list
+- Mark tasks as complete (adds a strikethrough)
+- Edit existing tasks in the list
+## What I Learned
+ 
+- Managing state with React hooks (`useState`)
+- Breaking down UI into reusable components
+- Passing data between components via props
+- Handling conditional styling (strikethrough on completed tasks)
+## Tech Stack
+ 
+- React
+## Status
+ 
+First React project — small in scope, but a solid base for the projects that followed.
